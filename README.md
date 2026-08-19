@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,11 +16,11 @@
 Pasta
     <br>
     <h3>
-<p style="word-spacing: 90px; text-align: Center;">Macaroni_White_Sauce ₹180</p>
-  <p style="word-spacing: 170px; text-align: Center;">Mexican_Pasta    ₹190</p>
-      <p style="word-spacing: 105px; text-align: Center;">Macaroni_Cheese_Veg ₹190</p>   
-      <p style="word-spacing: 50px; text-align: Center;">White_Sauce_Creamy_Pasta ₹195</p>
-      <p style="word-spacing: 70px; text-align: Center;">Red_Sauce_Creamy_Pasta ₹195</p>
+<p style="word-spacing: 90px; text-align: Center; color: white;">Macaroni_White_Sauce ₹180</p>
+  <p style="word-spacing: 170px; text-align: Center; color: white;">Mexican_Pasta    ₹190</p>
+      <p style="word-spacing: 105px; text-align: Center; color: white;">Macaroni_Cheese_Veg ₹190</p>   
+      <p style="word-spacing: 50px; text-align: Center; color: white;">White_Sauce_Creamy_Pasta ₹195</p>
+      <p style="word-spacing: 70px; text-align: Center; color: white;">Red_Sauce_Creamy_Pasta ₹195</p>
  </h3>
     <br>
      <h2 style="text-align: Center; color: Orange;">
